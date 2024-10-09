@@ -4,9 +4,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annapasca/main_ml_meeg_hands_on/)
 
-In this hands-on session we will learn 1) how to handle and visualize M/EEG data and 2) some machine learning techniques to decode evoked and induced M/EEG activity. Ww will use the [MNE-Python](https://mne.tools/) software package which has become a reference tool to process MEG/EEG/sEEG/ECoG data in Python, as well as the [scikit-learn library](https://scikit-learn.org/).
+In this hands-on session we will learn 1) how to handle and visualize M/EEG data and 2) some machine learning techniques to decode evoked and induced M/EEG activity. We will use the [MNE-Python](https://mne.tools/) software package which has become a reference tool to process MEG/EEG/sEEG/ECoG data in Python, as well as the [scikit-learn library](https://scikit-learn.org/).
 
-The scripts are inspired by the [course](https://github.com/agramfort/22_main_ml_meeg_tuto) of Alex Gramfort and Huber Banville at MAIN educational 2022.
+
+The scripts have been slightly modified and updated from a previous [course](https://github.com/agramfort/22_main_ml_meeg_tuto) given by Alex Gramfort and Huber Banville at MAIN educational 2022
 
 ## Running locally
 
